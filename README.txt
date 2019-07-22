@@ -1,4 +1,3 @@
 Creating a new branch is quick and simple!
 
-
-aaa
+is a free software
